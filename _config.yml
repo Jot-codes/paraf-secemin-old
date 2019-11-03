@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Parafia św. Katarzyny i św. Jana Apostoła w Seceminie
 paginate:       5
-baseurl:        "/parafia-secemin"
+baseurl:        "/blogFin"
 url:            "https://justyna1adam.github.io"
 
 # Assets
@@ -23,7 +23,7 @@ author:
 # Custom vars
 version:        3.4.1
 github:
-  repo:         https://github.com/justyna1adam/Parafia-Secemin
+  repo:         https://github.com/justyna1adam/blogFin
 
 # Gems
 gems:
